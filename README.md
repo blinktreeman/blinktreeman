@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @blinktreeman
 - 👀 I’m interested in ... everything
-- 🌱 I’m currently learning ... python
+- 🌱 I’m currently learning ... c#, python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
